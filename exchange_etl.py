@@ -11,5 +11,7 @@ print(data)
 # %%
 import pandas as pd
 dataf = pd.DataFrame(data)
-datafp
+
+def exchange_etl():
+    pass
 # %%
